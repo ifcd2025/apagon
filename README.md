@@ -1,5 +1,5 @@
 # Apagón
-Ejercicio de HTML con varias páginas, imágenes, video, audio y etiquetas semánticas (header, main, footer, ....)
+Ejercicio de HTML con varias páginas, imágenes, video, audio y etiquetas semánticas
 ---
 Etiquetas usadas:
 - main
